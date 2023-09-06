@@ -1,0 +1,35 @@
+[33mcommit a8008bb1cdfbc41ecd5ae2cb2300bc34ba8b239f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Wed Sep 6 10:45:30 2023 +0330
+
+    create some templates and related views
+
+[33mcommit 3028f9e32d3485c4e9069dc50b3cf533be5c6d9b[m[33m ([m[1;32mProduct[m[33m)[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Mon Aug 28 19:28:43 2023 +0330
+
+    nothing just settings
+
+[33mcommit d8af80c3bf0edd576ab4282bb5b56ff2b2a1cc67[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Mon Aug 28 00:57:58 2023 +0330
+
+    Just registering the product  models into the admin page
+
+[33mcommit 090e7c21ecd3bc0008fe7ed5e5f437f58de5dd8a[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Mon Aug 28 00:39:25 2023 +0330
+
+    Create product module models and make migrations
+
+[33mcommit 1af14a85f0c2fdbc480053e78d234a901126b50a[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Sun Aug 27 19:43:23 2023 +0330
+
+    start app product
+
+[33mcommit 1f7cbcc48936cd4540eb19399c50a77c811479d5[m[33m ([m[1;32meshop-index[m[33m)[m
+Author: Hassan <hassan.doodiyan@gmail.com>
+Date:   Sun Aug 27 19:35:51 2023 +0330
+
+    Starting the Project

@@ -4,14 +4,15 @@ from django.db.models import Avg, Min, Max
 
 # Create your views here.
 
-def product_list(request):
+def productList(request):
     products = Product.objects.all().order_by('price')
     numberOfProducts = products.count()
-    avgRating = products.aggregate(Avg("rating"))
+    # avgRating = products.aggregate(Avg("rating"))
     return render(request, 'product/productList.html',
                   {"products":products,
                    'totalProducts': numberOfProducts,
-                   'avgRaiting':avgRating})
+                   # 'avgRaiting':avgRating
+                   })
 
 
 def productDetails(request, slug):
